@@ -1,9 +1,10 @@
 # Computer-graphics-and-visualizations
 A basic 3D scene with textured primitives and Phong model lighting constructed with OpenGL.
 
-![image](https://github.com/sacredpoom/Computer-graphics-and-visualizations/assets/20672168/c9c8d9af-98a8-40d4-98c6-0cce9ff360e3)
+![FinalScreen](https://github.com/sacredpoom/Computer-graphics-and-visualizations/assets/20672168/27454834-cfeb-43e0-b608-ea1c3af87441)
+![3D_scene](https://github.com/sacredpoom/Computer-graphics-and-visualizations/assets/20672168/2c8229da-b5fa-4ce6-9130-a47df297bdff)
 
-![3D_scene](https://github.com/sacredpoom/Computer-graphics-and-visualizations/assets/20672168/ecba7311-45a2-4117-91e4-0bce784bebfe)
+
 ## About:
 The objective of this project was to employ OpenGL for the purpose of generating a 3D environment, relying solely on basic geometric shapes to construct intricate objects. A Phong lighting system, encompassing ambient, diffuse, and specular lighting calculations, was used to introduce two light sources within the scene. Custom shape classes handle vertex array and buffer objects with modularized render function to add primitives individually. Users are able to navigate the scene using W, A, S, D keys as well as vertical camera movement with Q and E keys. View of the scene can be switched from perspective projection to orthographic with the P key. Mouse handles view direction as well as speed using the scroll-wheel.
 
